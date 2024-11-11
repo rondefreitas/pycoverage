@@ -1,5 +1,5 @@
-name: 'pycoverage'
-author: João Santos
+name: 'pycoverage-ron-fork'
+author: João Santos & Ron DeFreitas
 description: >-
   Check pytest coverage and fail if tests failed or file and/or total coverage below threshold.
 branding:
